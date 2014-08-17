@@ -1,0 +1,8 @@
+dist
+*.bkp
+*.hi
+*.o
+.DS_Store
+*.aes
+
+
